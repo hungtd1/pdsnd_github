@@ -1,2 +1,4 @@
 bikeshare.zip
+*.csv
 .github/**
+/all-project-files/*.csv
