@@ -6,6 +6,7 @@ import numpy as np
 #30-10-2022 15:30 HungTD1 updated
 # 15:30 HungTD1 updated
 #30-10-2022 15:40 HungTD1 updated 2nd
+#15:40 HungTD1 updated 2nd
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
