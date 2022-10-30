@@ -149,7 +149,6 @@ def trip_duration_stats(df):
     print("   3.1.total travel time : ",totaltime)
 
     # display mean travel time
-
     meantime = df['Trip Duration'].mean()
     print("   3.2.mean travel time : ",meantime)
 
@@ -191,7 +190,6 @@ def user_stats(df):
 def main():
     invalidInput = False
     while True:
-        #HungTD1 comments
         
         city, month, day = get_filters()
         if city=='' or month =='' or day =='':
@@ -199,8 +197,6 @@ def main():
         if not invalidInput:
             df = load_data(city, month, day)
           
-        #city="chicago"  
-        #city="Washington"
         if city!='':
             df = pd.read_csv(CITY_DATA[city.lower()])
             count_row = df.shape[0]
