@@ -1,22 +1,28 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+30 Oct 2022.
 
 ### Project Title
-Replace the Project Title
+Simple BikeShare project
 
 ### Description
-Describe what your project is about and what it does
+This project is small project for traing
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+N/A
+
 ### 30 Oct 2022 15:00 
 HungTD1 Update 2nd
+
 ### 30 Oct 2022 15:00 
 HungTD1 Second updated
+
 ### 30 Oct 2022 15:05 
 HungTD1 Third updated
+
+### 30 Oct 2022 20:00 
+HungTD1 4th updated
