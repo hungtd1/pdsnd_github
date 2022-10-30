@@ -4,7 +4,9 @@ import pandas as pd
 import numpy as np
 #import datetime as dt
 #30-10-2022 15:30 HungTD1 updated
+# 15:30 HungTD1 updated
 #30-10-2022 15:40 HungTD1 updated 2nd
+#15:40 HungTD1 updated 2nd
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
