@@ -25,4 +25,4 @@ HungTD1 Second updated
 HungTD1 Third updated
 
 ### 30 Oct 2022 20:00 
-HungTD1 4th updated
+Update format of readme file
